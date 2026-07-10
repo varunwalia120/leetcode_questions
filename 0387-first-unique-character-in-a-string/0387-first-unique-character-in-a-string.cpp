@@ -13,10 +13,6 @@ public:
                 q.pop();
             }
         }
-        if (q.empty()) {
-            return -1;
-        } else {
-            return q.front();
-        }
+        return q.empty() ? -1 : q.front();
     }
 };
