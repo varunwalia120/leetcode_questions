@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/varunwalia120/leetcode_questions/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/varunwalia120/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
