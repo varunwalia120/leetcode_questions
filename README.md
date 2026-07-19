@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/varunwalia120/leetcode_questions/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/varunwalia120/leetcode_questions/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/varunwalia120/leetcode_questions/tree/master/0627-swap-sex-of-employees) |
 ## Array
 |  |
