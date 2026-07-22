@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/varunwalia120/leetcode_questions/tree/master/0627-swap-sex-of-employees) |
 | [1407-top-travellers](https://github.com/varunwalia120/leetcode_questions/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/varunwalia120/leetcode_questions/tree/master/1527-patients-with-a-condition) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/varunwalia120/leetcode_questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
