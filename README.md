@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/varunwalia120/leetcode_questions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/varunwalia120/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/varunwalia120/leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Queue
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/varunwalia120/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/varunwalia120/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -149,8 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/varunwalia120/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
