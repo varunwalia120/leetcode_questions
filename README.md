@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/varunwalia120/leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/varunwalia120/leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/varunwalia120/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0572-subtree-of-another-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/varunwalia120/leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varunwalia120/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/varunwalia120/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/varunwalia120/leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/varunwalia120/leetcode_questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/varunwalia120/leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/varunwalia120/leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/varunwalia120/leetcode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
