@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varunwalia120/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0086-partition-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varunwalia120/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunwalia120/leetcode_questions/tree/master/0009-palindrome-number) |
 ## Design
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varunwalia120/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/varunwalia120/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0234-palindrome-linked-list) |
