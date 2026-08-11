@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/varunwalia120/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/varunwalia120/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/varunwalia120/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunwalia120/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
