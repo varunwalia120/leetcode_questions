@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
