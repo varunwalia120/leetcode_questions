@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunwalia120/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varunwalia120/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunwalia120/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunwalia120/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
