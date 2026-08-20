@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/varunwalia120/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/varunwalia120/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/varunwalia120/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Queue
 |  |
 | ------- |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/varunwalia120/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/varunwalia120/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
