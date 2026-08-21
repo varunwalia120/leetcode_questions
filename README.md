@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/varunwalia120/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/varunwalia120/leetcode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varunwalia120/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Queue
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/varunwalia120/leetcode_questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/varunwalia120/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0938-range-sum-of-bst](https://github.com/varunwalia120/leetcode_questions/tree/master/0938-range-sum-of-bst) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varunwalia120/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunwalia120/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Design
 |  |
 | ------- |
@@ -228,4 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varunwalia120/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
