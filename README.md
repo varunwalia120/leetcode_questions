@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/varunwalia120/leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunwalia120/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/varunwalia120/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varunwalia120/leetcode_questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
 | ------- |
