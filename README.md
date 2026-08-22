@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varunwalia120/leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varunwalia120/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/varunwalia120/leetcode_questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/varunwalia120/leetcode_questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varunwalia120/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
